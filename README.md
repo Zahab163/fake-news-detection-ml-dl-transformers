@@ -34,7 +34,7 @@ The project demonstrates progression from classical machine learning to modern N
 2. Upload the dataset (`Fake.csv`, `True.csv`).
 3. Run cells sequentially to reproduce results.
 4. Dataset.csv file link: https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
-5. 
+5. Tools: Python, TensorFlow, Hugging Face Transformers, Scikit‑Learn, Plotly.
 ## Future Work
 - Add multilingual fake news detection.
 - Explore social media signals (likes, shares, retweets).
