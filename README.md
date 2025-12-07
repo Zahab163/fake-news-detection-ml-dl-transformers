@@ -1,4 +1,5 @@
 # Fake News Detection: ML, LSTM, and DistilBERT
+#[Live Demo](https://youtu.be/ofG8gGCQ4aE)
 
 ## Overview
 This repository contains a complete workflow for fake news detection using three approaches:
